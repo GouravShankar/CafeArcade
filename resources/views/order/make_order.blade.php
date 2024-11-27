@@ -337,7 +337,7 @@
           <div class="form-group small mb-3">
             Make sure you really understand the order you make. If you want to get more information please contact <a
               class="link-danger"
-              href="https://wa.me/+918707610243?text=Saya%20ingin%20menanyakan%20detail%20terkait%20produk%20anda"
+              href="https://wa.me/+917759925547?text=Saya%20ingin%20menanyakan%20detail%20terkait%20produk%20anda"
               target="_blank" style="text-decoration: none;">@admin</a>
           </div>
           <button type="submit" class="btn btn-primary w-100 mt-2">Submit</button>

@@ -18,14 +18,14 @@ class UserSeeder extends Seeder
     public function run()
     {
         User::create([
-            "fullname" => "Aditya vishwakarma",
-            "username" => "Aditya",
-            "email" => "aditya123@gmail.com",
-            "password" => Hash::make("123"),
+            "fullname" => "Manshi Kumari",
+            "username" => "Manshi",
+            "email" => "manshik3083@gmail.com",
+            "password" => Hash::make("1234"),
             "image" => env("IMAGE_PROFILE"),
-            "phone" => "8707610243",
-            "gender" => "M",
-            "address" => "Shell road number 10",
+            "phone" => "6299523642",
+            "gender" => "F",
+            "address" => "Mahavir Mandir Sonouli Chowk Purnia",
             "role_id" => 1,
             "coupon" => 0,
             "point" => 0,
@@ -33,14 +33,14 @@ class UserSeeder extends Seeder
         ]);
 
         User::create([
-            "fullname" => "Manshi",
-            "username" => "Manshi",
-            "email" => "manshi123@gmail.com",
-            "password" => Hash::make("1234"),
+            "fullname" => "Gourav Shankar",
+            "username" => "Gourav",
+            "email" => "gouravshankar51@gmail.com",
+            "password" => Hash::make("Kumar@123"),
             "image" => env("IMAGE_PROFILE"),
-            "phone" => "082918391823",
+            "phone" => "9693872552",
             "gender" => "M",
-            "address" => "Shell road number 18",
+            "address" => "Phagwara Punjab",
             "role_id" => 2,
             "coupon" => 0,
             "point" => 0,
